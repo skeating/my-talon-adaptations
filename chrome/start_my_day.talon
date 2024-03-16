@@ -15,5 +15,19 @@ start my day:
     browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit#gid=621060324")
     app.window_open()
     browser.go("https://otter.ai/home")
-    
 
+open male:
+    app.window_open()
+    browser.go("https://outlook.office.com/mail/")
+    
+open calendar:
+    app.window_open()
+    browser.go("https://outlook.office.com/calendar/")
+
+open time sheet:
+    app.window_open()
+    browser.go("https://uclrsdt.harvestapp.com/time")
+
+open otter:
+    app.window_open()
+    browser.go("https://otter.ai/home")
