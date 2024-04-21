@@ -114,6 +114,7 @@ struct,structure
 structs,structures
 sym,symbol
 symlink,symbolic link
+SBML,sysbio
 sys,system
 toc,table of contents
 tbl,table

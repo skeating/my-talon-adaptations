@@ -21,8 +21,21 @@ move biomedical:
     insert("MRC Biomedical data")
     key("enter")
 
-move dato grant: 
+move data grant: 
     key(v)
     sleep(100ms)
     insert("MRC data scientist")
+    key("enter")
+
+
+move harmony: 
+    key(v)
+    sleep(100ms)
+    insert("Harmony")
+    key("enter")
+
+move dry ion: 
+    key(v)
+    sleep(100ms)
+    insert("DRI-ION")
     key("enter")
