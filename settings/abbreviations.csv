@@ -84,8 +84,8 @@ ptr,pointer
 pref,preference
 prev,previous
 cpu,processor
-py,python1
-rand,random1
+py,python
+rand,random
 reg,registery
 regex,regular expression
 regex,regular expressions
@@ -99,7 +99,6 @@ C,see
 seg,segment
 sel,select
 sql,sequel
-[...],snipped
 sum,some
 src,source
 spec,specification
@@ -136,6 +135,6 @@ vs,versus
 msvc,visual studio
 wav,wave
 www,web
-wtf,what the fuck1
+wtf,what the fuck
 win,window
 wip,work in progress

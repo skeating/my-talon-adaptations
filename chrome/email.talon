@@ -39,3 +39,21 @@ move dry ion:
     sleep(100ms)
     insert("DRI-ION")
     key("enter")
+
+move contracts: 
+    key(v)
+    sleep(100ms)
+    insert("NHS")
+    key("enter")
+
+move inform us: 
+    key(v)
+    sleep(100ms)
+    insert("Informus")
+    key("enter")
+
+move break: 
+    key(v)
+    sleep(100ms)
+    insert("BRC-ARC")
+    key("enter")
