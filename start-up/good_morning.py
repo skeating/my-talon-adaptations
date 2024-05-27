@@ -8,6 +8,7 @@ mod = Module()
 class Actions:
     def good_morning():
         """ starts all the applications I need for my day"""
-        actions.user.switcher_launch("slack")
+        actions.user.switcher_launch("com.squirrel.slack.slack")
+        actions.user.switcher_launch("chrome")
 
     
