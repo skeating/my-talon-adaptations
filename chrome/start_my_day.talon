@@ -12,9 +12,9 @@ start my day:
     app.window_open()
     browser.go("https://uclrsdt.harvestapp.com/time")
     app.window_open()
-    browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit#gid=621060324")
-    app.window_open()
     browser.go("https://otter.ai/home")
+    app.window_open()
+    browser.go("https://mail.google.com/mail/u/0/?ogbl#inbox")
 
 open male:
     app.window_open()
@@ -31,3 +31,11 @@ open time sheet:
 open otter:
     app.window_open()
     browser.go("https://otter.ai/home")
+
+open google mail:
+    app.window_open()
+    browser.go("https://mail.google.com/mail/u/0/?ogbl#inbox")
+
+open personal time sheet:
+    app.window_open()
+    browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit#gid=621060324")
