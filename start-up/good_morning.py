@@ -14,3 +14,4 @@ class Actions:
         actions.user.switcher_launch("Microsoft.Todos_8wekyb3d8bbwe!App")
         actions.user.switcher_launch("MSTeams_8wekyb3d8bbwe!MSTeams")
         actions.user.switcher_launch("md.obsidian")
+        actions.user.switcher_launch("com.linear")
