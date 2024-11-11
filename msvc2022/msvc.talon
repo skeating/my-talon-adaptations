@@ -6,6 +6,7 @@ and app.exe: devenv.exe
 
 build solution: key(ctrl-shift-b)
 stop build: key(ctrl-break)
+compile: key(ctrl-f7)
     
 
 start debugging: key(f5)
