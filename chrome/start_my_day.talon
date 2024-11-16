@@ -22,11 +22,10 @@ start my day:
 
 start finance:
     app.window_open()
-    browser.go("https://docs.google.com/spreadsheets/d/1QaNxBMIo3GQmxjRvEY9_kqrWzvy92fcd/edit?gid=1252592722#gid=1252592722")   
-    app.window_open()
     browser.go("https://www.onlinebanking.natwest.com/Default.aspx")
     app.window_open()
     browser.go("https://online.mbna.co.uk/personal/logon/login.jsp*")
+    user.start_finance()
 
 
 open male:
