@@ -16,3 +16,11 @@ pay nat west : key(ctrl-shift-m)
 pay amazon : key(ctrl-a)
 
 top up utility card : key(ctrl-b)
+
+move amazon : key(ctrl-d)
+
+move utility bill : key(ctrl-e)
+
+do savings : key(ctrl-i)
+
+pay mall : key(ctrl-j)
