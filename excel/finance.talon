@@ -19,8 +19,16 @@ top up utility card : key(ctrl-b)
 
 move amazon : key(ctrl-d)
 
-move utility bill : key(ctrl-e)
+move utility bill : key(ctrl-e)``````````````````
 
 do savings : key(ctrl-i)
 
 pay mall : key(ctrl-j)
+
+lend jake : key(ctrl-x)
+
+lend Alex : key(ctrl-q)
+
+clear nat west : key(ctrl-u)
+
+clear amazon : key(ctrl-y)
