@@ -51,3 +51,11 @@ open google mail:
 open personal time sheet:
     app.window_open()
     browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit#gid=621060324")
+
+open human resources:
+    app.window_open()
+    browser.go("https://ebs-prod.ucl.ac.uk/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE")
+
+open my files:
+    app.window_open()
+    browser.go("https://liveuclac-my.sharepoint.com/my")
