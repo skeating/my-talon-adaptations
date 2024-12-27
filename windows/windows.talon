@@ -1,0 +1,1 @@
+shot : key(super-shift-S)

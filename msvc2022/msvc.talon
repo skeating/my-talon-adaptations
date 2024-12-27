@@ -20,6 +20,14 @@ step over: key(f10)
 step into: key(f11)
 step out: key(shift-f11)
 
+bookmark:
+    key(ctrl-k)
+    key(ctrl-k)
+
+next bookmark:
+    key(ctrl-k)
+    key(ctrl-n)
+
 comment out: 
     key(ctrl-k)
     key(ctrl-c)
