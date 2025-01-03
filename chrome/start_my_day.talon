@@ -50,7 +50,7 @@ open google mail:
 
 open personal time sheet:
     app.window_open()
-    browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit#gid=621060324")
+    browser.go("https://docs.google.com/spreadsheets/d/1PlwrassxaYlM2lyRDQEcbMSEhV1EA00pC7Ye_yW5lW4/edit?gid=1788527642#gid=1788527642*")
 
 open human resources:
     app.window_open()
