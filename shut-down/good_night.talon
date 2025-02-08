@@ -9,6 +9,7 @@ good evening:
     key(enter)
 
 fizzy wig:
+    sound.set_microphone("None")
     key(super-t)
     key(alt-f4)
     key(enter)
