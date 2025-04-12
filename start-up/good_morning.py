@@ -15,3 +15,8 @@ class Actions:
         actions.user.switcher_launch("MSTeams_8wekyb3d8bbwe!MSTeams")
         actions.user.switcher_launch("md.obsidian")
         actions.user.switcher_launch("com.linear")
+        actions.user.switcher_launch("com.electron.notion")
+
+    def start_browsing():
+        """ starts all the applications I need for my day"""
+        actions.user.switcher_launch("chrome")

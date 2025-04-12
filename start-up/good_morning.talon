@@ -5,9 +5,11 @@ os: windows
 good morning: 
     user.good_morning()
 
+start browsing: user.start_browsing()
+
 mike off: sound.set_microphone("None")
 
-key(ctrl-\): sound.set_microphone("System Default")
+key(ctrl-\): sound.set_microphone("Jack Mic (Realtek(R) Audio)")
 
 turn eyes off: tracking.control_toggle()
     

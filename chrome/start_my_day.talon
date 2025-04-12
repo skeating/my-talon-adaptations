@@ -59,3 +59,11 @@ open human resources:
 open my files:
     app.window_open()
     browser.go("https://liveuclac-my.sharepoint.com/my")
+
+open work tribe:
+    app.window_open()
+    browser.go("https://ucl-research.worktribe.com/[]")
+
+open my grants:
+    app.window_open()
+    browser.go("https://liveuclac-my.sharepoint.com/my?id=%2Fpersonal%2Fcceasmk%5Fucl%5Fac%5Fuk%2FDocuments%2FGRANTS")
