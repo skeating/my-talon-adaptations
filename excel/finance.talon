@@ -36,3 +36,12 @@ clear nat west : key(ctrl-u)
 clear amazon : key(ctrl-y)
 
 update month: key(ctrl-l)
+
+mark sell: 
+    key(ctrl-shift-f)
+    key(right)
+    key(right)
+    key(down)
+    key(down)
+    key(right)
+    key(enter)

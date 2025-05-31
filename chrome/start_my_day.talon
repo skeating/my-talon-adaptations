@@ -16,8 +16,6 @@ start my day:
     app.window_open()
     browser.go("https://uclrsdt.harvestapp.com/time")
     app.window_open()
-    browser.go("https://otter.ai/home")
-    app.window_open()
     browser.go("https://mail.google.com/mail/u/0/?ogbl#inbox")
 
 start finance:
@@ -67,3 +65,8 @@ open work tribe:
 open my grants:
     app.window_open()
     browser.go("https://liveuclac-my.sharepoint.com/my?id=%2Fpersonal%2Fcceasmk%5Fucl%5Fac%5Fuk%2FDocuments%2FGRANTS")
+   
+open report drive:
+    app.window_open()
+    browser.go("https://drive.google.com/drive/u/0/folders/1nx8Xt1bK692TzcPCsdDB-q9fnvnWA7JY")
+    

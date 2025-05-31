@@ -3,6 +3,18 @@ app: notion
 
 duplicate: key(ctrl-D)
 
-open: 
-    key(alt)
-    touch
+go back: key(ctrl-[)
+
+go forward: key(ctrl-])
+
+sighed: key(ctrl-enter)
+
+move: key(esc)
+
+admin: key(ctrl-1)
+
+projects: key(ctrl-2)
+
+safer: key(ctrl-3)
+
+grants: key(ctrl-4)

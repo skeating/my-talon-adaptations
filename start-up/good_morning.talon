@@ -2,7 +2,7 @@ os: windows
 
 --
 
-good morning: 
+good morning vietnam: 
     user.good_morning()
 
 start browsing: user.start_browsing()
@@ -16,3 +16,5 @@ turn eyes off: tracking.control_toggle()
 turn eyes on: tracking.control_toggle()
 
 make eyes big: tracking.control_zoom_toggle()
+
+key(super-\): speech.disable()
