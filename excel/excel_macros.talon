@@ -15,3 +15,9 @@ make day : key(ctrl-shift-e)
 make half day : key(ctrl-shift-h)
 
 calculate : key(ctrl-shift-k)
+
+clear contents : 
+    key(alt)
+    key(h)
+    key(e)
+    key(c)

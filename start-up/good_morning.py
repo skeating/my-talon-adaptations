@@ -11,10 +11,10 @@ class Actions:
         actions.user.switcher_launch("com.squirrel.slack.slack")
         actions.user.switcher_launch("chrome")
         actions.user.switcher_launch("MSedge")
-        actions.user.switcher_launch("Microsoft.Todos_8wekyb3d8bbwe!App")
+#        actions.user.switcher_launch("Microsoft.Todos_8wekyb3d8bbwe!App")
         actions.user.switcher_launch("MSTeams_8wekyb3d8bbwe!MSTeams")
-        actions.user.switcher_launch("md.obsidian")
-        actions.user.switcher_launch("com.linear")
+#        actions.user.switcher_launch("md.obsidian")
+#        actions.user.switcher_launch("com.linear")
         actions.user.switcher_launch("com.electron.notion")
 
     def start_browsing():

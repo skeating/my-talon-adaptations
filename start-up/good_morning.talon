@@ -2,7 +2,7 @@ os: windows
 
 --
 
-good morning vietnam: 
+good morning hunting done: 
     user.good_morning()
 
 start browsing: user.start_browsing()
