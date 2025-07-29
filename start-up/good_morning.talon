@@ -9,7 +9,7 @@ start browsing: user.start_browsing()
 
 mike off: sound.set_microphone("None")
 
-key(ctrl-\): sound.set_microphone("Jack Mic (Realtek(R) Audio)")
+key(ctrl-\): sound.set_microphone("Jack Mic (2- Realtek(R) Audio)")
 
 turn eyes off: tracking.control_toggle()
     
