@@ -19,11 +19,11 @@ top up utility card : key(ctrl-b)
 
 move amazon : key(ctrl-d)
 
-do savings : key(ctrl-i)
+spend : key(ctrl-i)
 
 pay mall : key(ctrl-j)
 
-lend jake : key(ctrl-x)
+subtract bill : key(ctrl-x)
 
 jake repayment : key(ctrl-e)
 
@@ -37,11 +37,3 @@ clear amazon : key(ctrl-y)
 
 update month: key(ctrl-l)
 
-mark sell: 
-    key(ctrl-shift-f)
-    key(right)
-    key(right)
-    key(down)
-    key(down)
-    key(right)
-    key(enter)

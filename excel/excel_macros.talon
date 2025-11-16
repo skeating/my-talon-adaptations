@@ -16,8 +16,13 @@ make half day : key(ctrl-shift-h)
 
 calculate : key(ctrl-shift-k)
 
+specify leave type : key(ctrl-q)
+
 clear contents : 
     key(alt)
     key(h)
     key(e)
     key(c)
+
+delete row : 
+    key(ctrl-minus)

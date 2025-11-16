@@ -2,12 +2,12 @@ os: windows
 
 --
 
-good evening: 
-    sound.set_microphone("None")
-    key(super-t)
-    key(alt-f4)
-    key(up)
+good evening:
+    key(super-X)
+    key(U)
+    key(down)
     key(enter)
+
 
 fizzy wig:
     sound.set_microphone("None")
@@ -19,3 +19,4 @@ hello talon: sound.set_microphone("Jack Mic (Realtek(R) Audio)")
 
 good night:
     user.good_night()
+    .

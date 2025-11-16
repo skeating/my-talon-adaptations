@@ -22,9 +22,16 @@ start finance:
     app.window_open()
     browser.go("https://www.onlinebanking.natwest.com/Default.aspx")
     app.window_open()
-    browser.go("https://online.mbna.co.uk/personal/logon/login.jsp*")
+    browser.go("https://online.mbna.co.uk/personal/logon/login.jsp")
     user.start_finance()
 
+start emap programming:
+    browser.go("https://github.com/SAFEHR-data/emap")
+    app.tab_open()
+    browser.go("https://github.com/orgs/SAFEHR-data/projects/41")
+    app.tab_open()
+    browser.go("https://github.com/SAFEHR-data/emap/pulls")
+    user.start_programming_star()
 
 open male:
     app.window_open()
@@ -60,7 +67,7 @@ open my files:
 
 open work tribe:
     app.window_open()
-    browser.go("https://ucl-research.worktribe.com/[]")
+    browser.go("https://ucl-research.worktribe.com/")
 
 open my grants:
     app.window_open()
